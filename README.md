@@ -54,9 +54,11 @@
   </a>
 </p>
 
+---
 
 
-## 📸 Screenshots
+
+## 📸 preview
 
 ### Homepage
 https://github.com/user-attachments/assets/8cf1e749-130b-4989-a8d5-f7df62a31446
@@ -69,11 +71,15 @@ https://github.com/user-attachments/assets/5799ad4a-a86c-4f23-a30c-56f04ee3039c
 
 
 ### Trip-Planning
-[Screen.Recording](https://github.com/user-attachments/assets/e9a5b962-4227-4eb2-9657-7fbc9da1a75d)
+https://github.com/user-attachments/assets/e9a5b962-4227-4eb2-9657-7fbc9da1a75d
 
 
 
+## 📞 Contact
 
+For any inquiries, feedback, or support, feel free to reach out to us:
+
+- **Email**: [support@travelverse.com](mailto:jo.sanu888@gmail.com)
 
 
 
