@@ -59,17 +59,17 @@
 ## 📸 Screenshots
 
 ### Homepage
-![Untitled design](https://github.com/user-attachments/assets/8cf1e749-130b-4989-a8d5-f7df62a31446)
+(https://github.com/user-attachments/assets/8cf1e749-130b-4989-a8d5-f7df62a31446)
 
 ### Explore
-![Untitled design](https://github.com/user-attachments/assets/1c5e533f-e370-43ff-af8f-081342e7d63c)
+(https://github.com/user-attachments/assets/1c5e533f-e370-43ff-af8f-081342e7d63c)
 
 ### Fare-Calculater
-![Untitled design](https://github.com/user-attachments/assets/5799ad4a-a86c-4f23-a30c-56f04ee3039c)
+(https://github.com/user-attachments/assets/5799ad4a-a86c-4f23-a30c-56f04ee3039c)
 
 
 ### Trip-Planning
-![Untitled design](https://github.com/user-attachments/assets/e9a5b962-4227-4eb2-9657-7fbc9da1a75d)
+(https://github.com/user-attachments/assets/e9a5b962-4227-4eb2-9657-7fbc9da1a75d)
 
 
 
