@@ -20,7 +20,7 @@ const Destinations = () => {
     const vantaEffect = useRef(null);
     const recognitionRef = useRef(null);
 
-    const UNSPLASH_ACCESS_KEY = 'v3uZBGw-6_aR9Iom_5oLZ3ZZBGQTtdFgi3nXoyY1T4U';
+    const UNSPLASH_ACCESS_KEY = '';
 
     useEffect(() => {
         if (location.state?.searchQuery) {
