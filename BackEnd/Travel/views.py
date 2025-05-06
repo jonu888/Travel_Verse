@@ -25,7 +25,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Configure Google Generative AI with your API key
-genai.configure(api_key="AIzaSyAzHmYwTPqysWGPWjijhmx5PRMfRMHJkHQ")
+genai.configure(api_key="")
 
 # Initialize global variables for caching
 TFIDF_VECTORIZER = None
