@@ -2,7 +2,7 @@
 <h1 align="center">Travel_Verse</h1>
 
 <h3>About</h3>
-**TravelVerse** is a modern web application designed to enhance your travel experience. Whether you're planning trips, calculating fares, or exploring destinations, TravelVerse provides all the tools you need in one place with a sleek and user-friendly interface.
+"TravelVerse" is a modern web application designed to enhance your travel experience. Whether you're planning trips, calculating fares, or exploring destinations, TravelVerse provides all the tools you need in one place with a sleek and user-friendly interface.
 
 ## Key Features
 
@@ -48,14 +48,6 @@
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
-  <!-- Tailwind CSS -->
-   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <!-- Django -->
-  
- 
- 
   <!-- Node.js -->
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
