@@ -1,0 +1,74 @@
+/* #root {
+  max-width: fit-content;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+} */
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+/* Custom Toastify Styles */
+.Toastify__toast {
+  border-radius: 8px;
+  font-family: 'Arial', sans-serif;
+  font-size: 14px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.Toastify__toast--success {
+  background-color: #257baa; /* Green for success */
+  color: white;
+}
+
+.Toastify__toast--error {
+  background-color: #f44336; /* Red for error */
+  color: white;
+}
+
+.Toastify__toast--info {
+  background-color: #2196f3; /* Blue for info */
+  color: white;
+}
+
+.Toastify__toast--warning {
+  background-color: #ff9800; /* Orange for warning */
+  color: white;
+}
+
+.Toastify__progress-bar {
+  background-color: white; /* White progress bar */
+}
