@@ -56,5 +56,28 @@
 
 
 
+## 📸 Screenshots
+
+### Homepage
+
+
+
+
+https://github.com/user-attachments/assets/34f1510e-295c-47f8-bd1f-3231259c2d3e
+
+
+### Explore
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/1c5e533f-e370-43ff-af8f-081342e7d63c
+
+
+### Fare-Calculater
+
 
 
