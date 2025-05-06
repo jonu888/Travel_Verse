@@ -59,11 +59,16 @@
 ## 📸 Screenshots
 
 ### Homepage
+![Homepage Screenshot]([./assets/homepage.png](https://github.com/user-attachments/assets/32d104aa-7812-4d3c-960e-dba56867c4c1))
 
 
 
 
-https://github.com/user-attachments/assets/34f1510e-295c-47f8-bd1f-3231259c2d3e
+
+
+
+
+
 
 
 ### Explore
